@@ -23,6 +23,6 @@ Cell Color
 I got the basic code for the If loop for color from here: https://www.mrexcel.com/board/threads/vba-code-to-make-negative-numbers-red-and-positive-numbers-black.1077036/
 
 Max Year_Change, Percent_Change, and Total_Volume
-Couldn't figure this out/
+Couldn't figure this out.
 
 
